@@ -1,0 +1,42 @@
+.club {
+    width: 300px;
+    height: 500px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
+
+.backgroundd {
+    width: 300px;
+    height: 160px;
+    background-color: greenyellow;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 30px 100px 30px 100px;
+    position: relative;
+}
+
+.name {
+    font-family: "Cedarville Cursive", monospace;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.examine {
+    background-color: white;
+    width: 260px;
+    height: 170px;
+    padding: 17px;}
+
+.examine {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
